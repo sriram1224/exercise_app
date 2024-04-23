@@ -4,10 +4,10 @@ import Exercise from './Components/Exercise';
 
 function App() {
   return (
-    <div>
+    <>
       <Banner />
       <Exercise />
-    </div>
+    </>
   );
 }
 

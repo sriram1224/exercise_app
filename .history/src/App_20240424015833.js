@@ -1,13 +1,13 @@
 import React from 'react';
-import Banner from './Components/Banner';
-import Exercise from './Components/Exercise';
+import Banner from './Banner';
+import Exercise from './Exercise';
 
 function App() {
   return (
-    <div>
+    <>
       <Banner />
       <Exercise />
-    </div>
+    </>
   );
 }
 
